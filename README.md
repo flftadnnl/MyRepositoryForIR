@@ -1,0 +1,2 @@
+# MyRepositoryForIR
+ir detect
